@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url('https://images.unsplash.com/photo-1555099962-4199c345e5dd');
+    background-image: url('./Natlan.png');
     /* darken bg image only */
     background-color: grey;
     background-blend-mode: multiply;
